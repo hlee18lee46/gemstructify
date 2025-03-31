@@ -24,7 +24,7 @@ export default function HomePage() {
           />
         </div>
         <h1 className="text-4xl font-extrabold text-white mb-2">Welcome to Gemstructify</h1>
-        <p className="text-lg text-white mb-8">Your AI-powered structural assistant</p>
+        <p className="text-lg text-white mb-8">Your AI-powered construction analysis assistant</p>
 
         <div className="space-x-4">
           <button
